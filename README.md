@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MDnoob
-- 👀 I’m interested in making a data transfer app
-- 🌱 I don't know how to code
-- 💞️ whatever i have learned is from CGPT
+- 👀 I’m interested in making a data transfer app with no limits
+- Also interested in making a free alternative to Adobe Reader's features
+- 🌱 Learning to code via prompts and the internet
 - 📫 you can reach me via this email id molinpdave@gmail.com
 
 <!---
